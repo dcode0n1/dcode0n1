@@ -1,0 +1,35 @@
+.strip-container {
+    width: 100%;
+    height: 10px;
+    position: relative;
+}
+
+.strip {
+    width: 33.33%;
+    height: 100%;
+    position: absolute;
+    animation: move 3s infinite;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+    animation-delay: 1s;
+}
+
+.blue {
+    background-color: blue;
+    animation-delay: 2s;
+}
+
+@keyframes move {
+    0% {
+        left: 0;
+    }
+    100% {
+        left: 100%;
+    }
+}
