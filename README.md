@@ -1,4 +1,5 @@
 
+<link rel="stylesheet" type="text/css" href="style.css">
 
 <h1 align="center">Hi 👋, I'm Rakshak Khandelwal</h1>
 <h3 align="center">I'm an aspiring back-end developer who's passionate about building scalable and efficient systems. I'm currently learning Node.js as my primary backend technology and working on personal projects to improve my skills.
@@ -6,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div class="strip-container">
+
     <div class="strip red"></div>
     <div class="strip green"></div>
     <div class="strip blue"></div>
