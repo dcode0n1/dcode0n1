@@ -1,11 +1,12 @@
 
-<link rel="stylesheet" type="text/css" href="style.css">
+<img src="./banner-welcome.gif" alt="RGB Rainbow Line" width="1000" height="100"/>
+
 
 <h1 align="center">Hi 👋, I'm Rakshak Khandelwal</h1>
 <h3 align="center">I'm an aspiring back-end developer who's passionate about building scalable and efficient systems. I'm currently learning Node.js as my primary backend technology and working on personal projects to improve my skills.
 </h3>
 
-<img src="./rgb-rainbow.gif" alt="RGB Rainbow Line" width="1500"/>
+<img src="./rgb-rainbow.gif" alt="RGB Rainbow Line" width="1000"/>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
