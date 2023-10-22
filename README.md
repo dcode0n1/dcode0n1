@@ -3,7 +3,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Rakshak Khandelwal</h1>
-<h3 align="center">I'm an aspiring back-end developer who's passionate about building scalable and efficient systems. I'm currently learning Node.js as my primary backend technology and working on personal projects to improve my skills.
+<h3 align="center">
+I'm a dedicated back-end developer with a strong passion for architecting scalable and efficient systems. With extensive experience in working with clients, I specialize in creating robust solutions using the MERN stack, encompassing everything from the back end to the front end. My primary focus is on Node.js, which I have mastered for building high-performance server-side applications. I actively engage in personal projects to continually enhance my skills and stay at the forefront of the rapidly evolving technology landscape.
 </h3>
 
 <img src="./rgb-rainbow.gif" alt="RGB Rainbow Line" width="1000"/>
