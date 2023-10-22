@@ -23,18 +23,46 @@ I'm a dedicated back-end developer with a strong passion for architecting scalab
 </p>
 
 <h3 align="left">Tools and Editors:</h3>
-<img src="https://skillicons.dev/icons?i=stackoverflow,vscode" />
+<div class="icon-container">
+  <img src="https://skillicons.dev/icons?i=stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</div>
+
 <h3 align="left">Version Control and Collaboration:</h3>
-<img src="https://skillicons.dev/icons?i=github,discord" />
+<div class="icon-container">
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=discord" />
+</div>
 
 <h3 align="left">Front-end Development:</h3>
-<img src="https://skillicons.dev/icons?i=bootstrap,codepen,css,figma,js,react,sass,vue,wordpress" />
+<div class="icon-container">
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=vue" />
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+  <img src="https://skillicons.dev/icons?i=mui" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" />
+</div>
+
 <h3 align="left">Back-end Development and Databases: </h3>
-<img src="https://skillicons.dev/icons?i=mysql,nodejs,mongodb,express" /> <!-- Added MongoDB and Express images -->
+<div class="icon-container">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=express" />
+</div>
+
 <h3 align="left">Web Development Frameworks:</h3>
-<img src="https://skillicons.dev/icons?i=nextjs" />
+<div class="icon-container">
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+</div>
+
 <h3 align="left">TypeScript</h3>
-<img src="https://skillicons.dev/icons?i=ts" />
+<div class="icon-container">
+  <img src="https://skillicons.dev/icons?i=ts" />
+</div>
 
 <img src="./rgb-rainbow.gif" alt="RGB Rainbow Line" width="1500"/>
 
