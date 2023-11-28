@@ -66,4 +66,3 @@ I'm a dedicated back-end developer with a strong passion for architecting scalab
 
 <img src="./rgb-rainbow.gif" alt="RGB Rainbow Line" width="1500"/>
 
-<img src="https://count.getloli.com/get/@:ITMsJarvis" alt=":ITMsJarvis" />
