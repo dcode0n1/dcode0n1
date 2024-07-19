@@ -72,4 +72,4 @@ I'm a dedicated back-end developer with a strong passion for architecting scalab
 ## Badges
 <b>My GitHub Stats</b>
 
-<a href="[http://www.github.com/itmsjarvis](https://github-readme-stats.vercel.app/api?username=9520prashant&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)"><img src="https://github-readme-stats.vercel.app/api?username=ITMsJarvis&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ITMs Jarvis's GitHub stats" /></a>
+<a href="[http://www.github.com/dcode0n1](https://github-readme-stats.vercel.app/api?username=9520prashant&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)"><img src="https://github-readme-stats.vercel.app/api?username=ITMsJarvis&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ITMs Jarvis's GitHub stats" /></a>
